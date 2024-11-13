@@ -26,7 +26,7 @@
 		{
 			"kind": "builder",
 			"tag": "com-sample-box-builder",
-			"url": "https://www.sample.com/customwidgets/box/box_builder.js",
+			"url": "https://github.com/sangeylaama/customwidgetsap/blob/main/box_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
