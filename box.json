@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sample-box",
-			"url": "https://www.sample.com/customwidgets/box/box.js",
+			"url": "https://github.com/sangeylaama/customwidgetsap/blob/main/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
