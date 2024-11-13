@@ -19,7 +19,7 @@
 		{
 			"kind": "styling",
 			"tag": "com-sample-box-styling",
-			"url": "https://www.sample.com/customwidgets/box/box_styling.js",
+			"url": "https://github.com/sangeylaama/customwidgetsap/blob/main/box_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
